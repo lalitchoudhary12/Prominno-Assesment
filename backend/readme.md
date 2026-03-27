@@ -51,7 +51,7 @@ Note: Check `package.json` for the exact versions used in this project.
 ## Temporary Admin Credentials (for testing)
 
 - Email: `admin@example.com`
-- Password: `Admin@123` (temporary - change in production)
+- Password: `admin@123` (temporary - change in production)
 
 If `utils/seedAdmin.js` exists, run it or check the database to ensure the admin user is created.
 
